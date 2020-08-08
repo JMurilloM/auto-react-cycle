@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/auto-react-cycle/static/css/main.10b20d05.chunk.css",
+    "main.css": "/auto-react-cycle/static/css/main.86e77ca2.chunk.css",
     "main.js": "/auto-react-cycle/static/js/main.430020d2.chunk.js",
     "main.js.map": "/auto-react-cycle/static/js/main.430020d2.chunk.js.map",
     "runtime-main.js": "/auto-react-cycle/static/js/runtime-main.d4089c60.js",
@@ -8,9 +8,9 @@
     "static/js/2.b5c4a7e7.chunk.js": "/auto-react-cycle/static/js/2.b5c4a7e7.chunk.js",
     "static/js/2.b5c4a7e7.chunk.js.map": "/auto-react-cycle/static/js/2.b5c4a7e7.chunk.js.map",
     "index.html": "/auto-react-cycle/index.html",
-    "precache-manifest.ecbc224c532708ffc26160df2ed703d9.js": "/auto-react-cycle/precache-manifest.ecbc224c532708ffc26160df2ed703d9.js",
+    "precache-manifest.c6d0ebaee5d3ddef1ac00cd799801c7f.js": "/auto-react-cycle/precache-manifest.c6d0ebaee5d3ddef1ac00cd799801c7f.js",
     "service-worker.js": "/auto-react-cycle/service-worker.js",
-    "static/css/main.10b20d05.chunk.css.map": "/auto-react-cycle/static/css/main.10b20d05.chunk.css.map",
+    "static/css/main.86e77ca2.chunk.css.map": "/auto-react-cycle/static/css/main.86e77ca2.chunk.css.map",
     "static/js/2.b5c4a7e7.chunk.js.LICENSE.txt": "/auto-react-cycle/static/js/2.b5c4a7e7.chunk.js.LICENSE.txt",
     "static/media/all.css": "/auto-react-cycle/static/media/fa-solid-900.a2a89323.woff",
     "static/media/logo.svg": "/auto-react-cycle/static/media/logo.5d5d9eef.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.d4089c60.js",
     "static/js/2.b5c4a7e7.chunk.js",
-    "static/css/main.10b20d05.chunk.css",
+    "static/css/main.86e77ca2.chunk.css",
     "static/js/main.430020d2.chunk.js"
   ]
 }
